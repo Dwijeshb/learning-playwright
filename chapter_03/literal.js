@@ -7,5 +7,5 @@ let a="dexter";
 let b="krall";
 console.log(`heloo maccha ${a},${b} how are you?`)
 
-let math=`multiplication of 40*20= $(40*200)`
+let math=`multiplication of 40*20= ${40*200}`
 console.log(math)
