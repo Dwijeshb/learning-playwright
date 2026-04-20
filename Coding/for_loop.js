@@ -1,37 +1,37 @@
-// For Loop
-// 1️⃣ Print "Hello" 5 times
-// 2️⃣ Print numbers from 1 to 10
-// 3️⃣ Print even numbers from 1 to 20
-// 4️⃣ Print the sum of first 10 natural numbers
-// 5️⃣ Print the multiplication table of 5
+// // For Loop
+// // 1️⃣ Print "Hello" 5 times
+// // 2️⃣ Print numbers from 1 to 10
+// // 3️⃣ Print even numbers from 1 to 20
+// // 4️⃣ Print the sum of first 10 natural numbers
+// // 5️⃣ Print the multiplication table of 5
 
-// for(let i=0;i<5;i++)
-// {
-//     console.log("Hello");
-// }
-// //-----------------------------
-// for(let i=1;i<=10;++i)
-// {
-//     console.log(i);
-// }
-// //-----------------------------
-// for(let i=1;i<=20;i++)
-// {
-//     if(i%2==0)
-//     {
-//         console.log(i);
-//     }
-// }   
-// //-----------------------------
-// let sum = 0;
+// // for(let i=0;i<5;i++)
+// // {
+// //     console.log("Hello");
+// // }
+// // //-----------------------------
+// // for(let i=1;i<=10;++i)
+// // {
+// //     console.log(i);
+// // }
+// // //-----------------------------
+// // for(let i=1;i<=20;i++)
+// // {
+// //     if(i%2==0)
+// //     {
+// //         console.log(i);
+// //     }
+// // }   
+// // //-----------------------------
+// // let sum = 0;
 
-// for (let i = 1; i <= 10; i++) {
-//     sum += i;
-// }
+// // for (let i = 1; i <= 10; i++) {
+// //     sum += i;
+// // }
 
-// console.log(sum);
-//-----------------------------
-for(let i=1;i<=10;i++)
-{
-    console.log("5 x " + i + " = " + 5*i);
-}           
+// // console.log(sum);
+// //-----------------------------
+// for(let i=1;i<=10;i++)
+// {
+//     console.log("5 x " + i + " = " + 5*i);
+// }           
